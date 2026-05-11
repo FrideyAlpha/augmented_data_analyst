@@ -1,5 +1,5 @@
 Saya memiliki beberapa file Excel di folder data/.
-Tolong buatkan kode Python menggunakan pandas untuk:
+Buatkan kode Python menggunakan pandas untuk:
 - membaca seluruh file Excel dalam folder,
 - menggabungkan semua file,
 - menghapus data kosong,

@@ -6,7 +6,7 @@ revenue
 profit_margin
 growth_percentage
 
-Tolong buatkan:
+Buatkan:
 Ringkasan Eksekutif
 Insight Utama
 Rekomendasi Bisnis
